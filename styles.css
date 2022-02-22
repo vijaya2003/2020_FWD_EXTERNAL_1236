@@ -1,0 +1,11 @@
+.div1{
+    background-color: aqua;
+    border-radius: 50px;
+    align-items: center;
+    width: 700px;
+    height: 600px;
+}
+h2{
+    color: red;
+    background-color: yellow;
+}
